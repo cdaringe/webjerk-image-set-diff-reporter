@@ -29,6 +29,7 @@ export default class SlideyThing extends Component {
           onChange={this.handleInputChange.bind(this)}
           disabled={this.state.type === 'difference'}
         />
+        <pre>{JSON.stringify(diff, null, 2)}</pre>
       </div>
     )
   }
