@@ -1,5 +1,7 @@
 # webjerk-image-set-diff-reporter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/webjerk-image-set-diff-reporter.svg)](https://greenkeeper.io/)
+
 generates a static website displaying sets of image differences.
 
 <img width="300px" src="https://raw.githubusercontent.com/cdaringe/webjerk-image-set-diff-reporter/master/img/example.gif" />
